@@ -1,1 +1,3 @@
 Method for setting observation plans.
+
+Optimal season for observing is around November, whereas our observation window is the first two weeks of August. [Augg. 1-14]
