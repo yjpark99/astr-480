@@ -1,0 +1,15 @@
+
+Row| |         Object Name          |     RA     |    Dec     |Object| Redshift | z  |           Galaxy Morphology            |             Activity Type              |Row
+No.| | (* Hover for Essential Note) |  J2000.0   |  J2000.0   | Type |          |Qual|     NED Homogenized Classification     |     NED Homogenized Classification     |No.
+
+20 | |GOODS-CDFS-MUSIC 17315        |03h32m37.11s|-27d41m21.9s|G     |  2.150000|PHOT|Clump                                   |                                        |20 
+21 | |CANDELS J033237.57-274231.8   |03h32m37.57s|-27d42m31.7s|G     |  0.160000|PHOT|Clump                                   |                                        |21 
+22 | |GOODS-CDFS-MUSIC 16907        |03h32m37.67s|-27d41m43.9s|G     |  2.670000|PHOT|Clump                                   |                                        |22 
+23 | |COMBO-17 46552                |03h32m38.26s|-27d41m45.2s|G     |  0.877000|PHOT|Clump                                   |                                        |23 
+24 | |CANDELS J033238.65-274021.9   |03h32m38.64s|-27d40m22.0s|G     |  1.400000|PHOT|Clump                                   |                                        |24 
+25 | |CANDELS J033238.69-274044.8   |03h32m38.71s|-27d40m44.9s|G     |          |    |Clump                                   |                                        |25 
+26 |*|CANDELS J033238.76-274105.9   |03h32m38.76s|-27d41m05.9s|G     |  2.200000|PHOT|Clump                                   |                                        |26 
+27 | |CANDELS J033238.80-274058.4   |03h32m38.80s|-27d40m58.5s|G     |          |    |Clump                                   |                                        |27 
+28 | |CANDELS J033239.85-274145.2   |03h32m39.85s|-27d41m45.3s|G     |  0.045000|PHOT|Clump                                   |                                        |28 
+29 | |GNS 8188                      |03h32m39.90s|-27d42m30.8s|G     |  2.505000|PHOT|Clump                                   |                                        |29 
+30 | |CANDELS J033240.62-274123.9   |03h32m40.63s|-27d41m23.8s|G     |  2.465000|    |Clump                                   |                                        |30 
