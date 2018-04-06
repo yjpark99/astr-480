@@ -3,3 +3,5 @@ Method for setting observation plans.
 Optimal season for observing is around November, whereas our observation window is the first two weeks of August. [Aug. 1-14]
 
 For the screenshots of the airmass diagram from JSkyCalc, we took it on the 14th. The time zone of the observability slightly increases over the period, with the maximum observation period on the 14th.
+
+The object type we chose to observe, the Clump Galaxy is focused around the similar region in the sky. So all of the objects are observable in the time frame of Aug. 10 - 14.
