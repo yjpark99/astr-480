@@ -1,7 +1,30 @@
 Method for setting observation plans.
 
+
+The object type that my partner and I chose is around the same region in the sky, so the right ascension and the declination differ by couple seconds or couple arcseconds. Based on that, we took one of the objects and observed the airmass diagram with the timestep in the JSkyCalc program set as 1 day.
+
+The airmass diagram shows the change of the airmass of the object for one entire night as the time goes on. It also displays the position of the moon with repsect to time and the phase of the moon. So by consulting the airmass diagram, we could determine the time period where the moon would not be in way of the object we are interested in, and where there is a time period where the object has an airmass less than 1.9. That time period is from August 10-14. The moon is not on the sky while the object is in the sky during this time period. The time period of optimal airmass increases from the 10th to the 14th.
+
 Optimal season for observing is around November, whereas our observation window is the first two weeks of August. [Aug. 1-14]
 
-For the screenshots of the airmass diagram from JSkyCalc, we took it on the 14th. The time zone of the observability slightly increases over the period, with the maximum observation period on the 14th.
 
-The object type we chose to observe, the Clump Galaxy is focused around the similar region in the sky. So all of the objects are observable in the time frame of Aug. 10 - 14.
+
+
+
+Moon phase during observation.
+
+
+The moon will be a waning crescent, as seen in the screenshots of the airmass diagram of the objects. Also, the moon will not be up in the sky during the time period of August 10-14. The moon will be up in the first half of the night, but the object that we are interested in becomes observable in the latter half of the night.
+
+
+
+
+
+Observation 1 month later.
+
+
+It will be better to observe our object after 1 month. The optimal season for observing is around November, meaning that the observation will get better as it gets closer to November.
+
+Also, looking at the airmass diagram of the Object 20 (from the Clumps list) on September 1-14, the observable time period increases from 1st to the 14th. But during the time period of 1-6, the moon is up in the sky with the object, although it becomes very dim towards the end of that time period. Then starting from the 7th, the moon is no longer in the sky simultaneously with the object in interest, making it easier to observe the object we are interested in. So we can observe for 7 days, rather than 4 days in 1 month from the original observation time window.
+
+Another improvement is the observable time period for each night. We can observe for about 3 hours at maximum for Object 20 at September, rather than the 1 hour observation window during August.
