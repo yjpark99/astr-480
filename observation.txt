@@ -1,3 +1,5 @@
 Method for setting observation plans.
 
-Optimal season for observing is around November, whereas our observation window is the first two weeks of August. [Augg. 1-14]
+Optimal season for observing is around November, whereas our observation window is the first two weeks of August. [Aug. 1-14]
+
+For the screenshots of the airmass diagram from JSkyCalc, we took it on the 14th. The time zone of the observability slightly increases over the period, with the maximum observation period on the 14th.
